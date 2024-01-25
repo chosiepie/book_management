@@ -1,11 +1,11 @@
 ## Overview
  This Java application helps you manage your books easily. It uses a MySQL database for efficient book tracking.
 ## Features
-#### 1.Add a Book:
+#### 1. Add a Book:
 Enter book details, including name, author, genre, and reading progress.
 The application ensures your ID is within the specified range.
 
-#### 2.Show All Books:
+#### 2. Show All Books:
 View a comprehensive list of all books in your collection.
 
 #### 3. View Book by ID:
